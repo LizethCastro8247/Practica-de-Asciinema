@@ -35,14 +35,14 @@ sudo apt install figlet
 ```
 <img width="715" height="134" alt="imagen" src="https://github.com/user-attachments/assets/7c6beccf-a661-448f-9239-a0cc02b2cf5b" />
 
-## 2. Grabación con Asscinema
+## 3. Grabación con Asscinema
 Posteriormente, se ejecuta el siguiente comando para dar inicio a la grabación de la termina
 ```bash
 asciinema rec
 ```
 A partir de este momento, cada código ingresado a la terminal se grabara.
 
-## 3. Vídeo de Asciinema
+## 4. Vídeo de Asciinema
 Ahora, se anexa el vídeo de la terminal donde se ejecuto cada uno de los comandos realizados:
 
 [![asciicast](https://asciinema.org/a/7382TxQrN9CUMalbKAkGQWOR7.svg)](https://asciinema.org/a/7382TxQrN9CUMalbKAkGQWOR7)
