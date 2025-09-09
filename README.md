@@ -8,7 +8,8 @@ Este documento explica cómo grabar y documentar una práctica en la terminal de
 
 En el apartado de instancias de AWS, nos conectamos a la instancia que se creo anteriormente. Le damos clic al botón de "Conectar".
 
-<img width="1920" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/24d3f4bb-82cf-498f-91d6-5df68e1e04c4" />
+<img width="1920" height="1080" alt="imagen" src="https://github.com/user-attachments/assets/d48c90db-60e3-404c-ba89-fcb2ab58c552" />
+
 
 ## 2. Instalación de Asciinema
 
