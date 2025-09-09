@@ -31,4 +31,5 @@ A partir de este momento, cada código ingresado a la terminal se grabara.
 
 ## 3. Vídeo de Asciinema
 Ahora, se anexa el vídeo de la terminal donde se ejecuto cada uno de los comandos realizados:
+
 [![asciicast](https://asciinema.org/a/7382TxQrN9CUMalbKAkGQWOR7.svg)](https://asciinema.org/a/7382TxQrN9CUMalbKAkGQWOR7)
